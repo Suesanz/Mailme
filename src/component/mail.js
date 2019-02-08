@@ -21,7 +21,7 @@ app.post('/send', (r, s) => {
         service: 'gmail',
         auth: {
             user: 'anthe2067@gmail.com', // generated ethereal user
-            pass: '24suesanz07' // generated ethereal password
+            pass: '' // generated ethereal password
         }
     });
 
